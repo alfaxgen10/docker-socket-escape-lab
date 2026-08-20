@@ -1,10 +1,3 @@
-### 1. `README.md`
-
-This is the front page of your repository. It sets the stage, explains the scenario, and gives users the deployment instructions.
-
-**Copy and paste this into your `README.md` file:**
-
-```markdown
 # Docker Socket Escape Lab (Container Breakout)
 
 Welcome to the Docker Socket Escape Lab. This repository provides a safe, locally deployable Capture The Flag (CTF) style environment to practice container breakout techniques resulting from Docker Daemon UNIX socket misconfigurations.
