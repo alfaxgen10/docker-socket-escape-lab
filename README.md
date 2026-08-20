@@ -127,5 +127,3 @@ cat /etc/shadow
 ```
 
 **Congratulations! You have successfully escaped the container and achieved total host compromise.**
-
-```
